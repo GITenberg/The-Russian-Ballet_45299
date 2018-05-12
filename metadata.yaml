@@ -1,0 +1,40 @@
+_repo: The-Russian-Ballet_45299
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Pamela Colman
+    birthdate: 1878
+    deathdate: 1951
+    gutenberg_agent_id: '43206'
+    url: http://www.gutenberg.org/2009/agents/43206
+covers:
+- cover_type: archival
+  image_path: 45299-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Terry, Ellen
+    aliases:
+    - Terri, Ellen, Dame
+    - Terry, Alice Ellen, Dame
+    - Wardell, E. A. (Ellen A.), Dame
+    birthdate: 1848
+    deathdate: 1928
+    gutenberg_agent_id: '4316'
+    url: http://www.gutenberg.org/2009/agents/4316
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Terry
+description: ''
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45299'
+  lccn: '13024655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dance -- Russia'
+- !lcc 'GV'
+- !lcsh 'Ballet'
+title: The Russian Ballet
+url: http://www.gutenberg.org/ebooks/45299
