@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4316
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Terry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45299#The-Russian-Ballet
 gutenberg_issued: '2014-04-01'
 gutenberg_type: Text
 identifiers:
